@@ -1,2 +1,2 @@
 # capstone2_Tenmo
-Applied MVC design principles to build a fully-authenticated P2P money transfer application, implementing JDBC and Spring Boot to build a RESTful API from a PostgreSQL database to a client-side CLI.
+Ulilized MVC principles to build a money transfer application. We implemented JDBC and Spring Boot to build a RESTful API. User information, transaction history, and account balnces are kept in a PostgreSQL database. 
